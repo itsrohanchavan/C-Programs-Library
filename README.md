@@ -12,3 +12,15 @@
 
 ## Compile & Run
 To compile a program:
+```bash
+gcc program.c -o program
+```
+To run:
+```bash
+./program
+```
+
+## Notes
+- I used GCC (MinGW) on Windows. If GCC is not installed, install MinGW or use an IDE (Code::Blocks / Dev-C++).
+- Commit messages: meaningful, e.g. "Add bubble sort program", "Fix file I/O sample".
+
